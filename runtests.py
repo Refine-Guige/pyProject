@@ -1,6 +1,5 @@
 #coding=utf-8
 import unittest
-from HTMLTestRunner import HTMLTestRunner
 
 from tests import login
 
